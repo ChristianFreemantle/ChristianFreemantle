@@ -1,7 +1,7 @@
 -  I’m @ChristianFreemantle
 -  Interested in Data Analytics 
 -  I’m currently studying Google Professional Data Analyst
--  I’m looking to collaborate on data analytics and database administration and hopefully finding mentors and oppertunities
+-  I’m looking to collaborate and focus on data analytics and database administration and hopefully finding mentors and oppertunities
 
 - Ballance - Failure = Success 
 
